@@ -1,4 +1,4 @@
-# House-Price-Prediction---A-Simple-Dataset.
+# House-Price-Prediction
 One small regression project end-to-end and understand what each metric is actually measuring.
 
 1. Project objective
