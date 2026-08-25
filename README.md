@@ -29,11 +29,15 @@ Pandas
 Matplotlib
 Seaborn
 Scikit-learn
+
+
 📌 Workflow
 EDA → Visualization → Train/Test Split
 → Linear Regression → Prediction
 → MAE / MSE / RMSE / R²
 → Residual Analysis
+
+
 🎯 Objective
 
 Predict house prices using:
